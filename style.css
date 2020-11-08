@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin-top: 1.5%;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 4rem;
+    font-style: italic;
+}
+h3{
+    margin: 10px, 0;
+}
+.container{
+    margin-top: 2.5%;
+    justify-content: space-between;
+}
+.plr1{
+    display: inline-block;
+    text-align: center;
+    background-color: aqua;
+    width: 320px;
+    height: 340px;
+    margin-right: 0.7%;
+    
+}
+.plr2{
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(13, 111, 197);
+    width: 320px;
+    height: 340px;
+    margin-left: 0.7%;
+    
+}
+.result{
+    margin-top: 2.5%;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(1, 92, 92);
+}
+div dl{
+    margin-left: 1%;
+    text-align: left;
+}
